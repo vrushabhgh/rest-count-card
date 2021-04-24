@@ -1,0 +1,22 @@
+.row{
+    background-color: chartreuse;
+    
+   
+   
+}
+.row{
+    text-align: center;
+  
+}
+.card-header{
+    font-weight: 800;
+   
+}
+
+.card{
+border: solid black;
+height: 425px;
+} 
+.card-header{
+    border-bottom: solid black;
+}
